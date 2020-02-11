@@ -4,7 +4,7 @@ Interferometric Synthetic Aperture Radar (InSAR) imagery based on microwaves ref
 
 Please cite the below [paper](https://doi.org/10.1109/ICSENS.2018.8589742) if you use the code in its original or modified form:
 
-*S. Mukherjee, A. Zimmer, N. K. Kottayil, X. Sun, P. Ghuman and I. Cheng, "CNN-Based InSAR Coherence Classification," 2018 IEEE SENSORS, New Delhi, 2018, pp. 1-4.*
+*S. Mukherjee, A. Zimmer, X. Sun, P. Ghuman and I. Cheng, "CNN-Based InSAR Coherence Classification," 2018 IEEE SENSORS, New Delhi, 2018, pp. 1-4.*
 
 ## Guidelines
 
