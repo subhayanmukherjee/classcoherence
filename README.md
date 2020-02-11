@@ -1,1 +1,1 @@
-# InSAR Image Coherence Binary Classification via CNN
+# Binary Classification of InSAR Image Coherence via CNN
