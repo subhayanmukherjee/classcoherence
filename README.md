@@ -8,6 +8,6 @@ Please cite the below [paper](https://doi.org/10.1109/ICSENS.2018.8589742) if yo
 
 ## Guidelines
 
-1. This code uses the [PyGCO repo](https://github.com/Borda/pyGCO) which is a Python wrapper over a graph cuts based move-making algorithm implementation for optimization in Markov Random Fields. Please refer to our [paper](https://doi.org/10.1109/ICSENS.2018.8589742) to understand how and why we use MRF.
+1. This code uses the [PyGCO repo](https://github.com/Borda/pyGCO) which is a Python wrapper over a graph cuts based move-making algorithm implementation for optimization in Markov Random Fields. Please see our [paper](https://doi.org/10.1109/ICSENS.2018.8589742) to understand how and why we use MRF.
 2. The entire code for generating the training datasets and training our InSAR Coherence Classification CNN is provided in the [train_coh_class.py](https://github.com/subhayanmukherjee/classcoherence/blob/master/train_coh_class.py) script. However, it uses the trained InSAR Denoising CNN from our [cnninsar repo](https://github.com/subhayanmukherjee/cnninsar). Please refer to the relevant guidelines in that repo to train that InSAR Denoising CNN before running any code from this repo.
 3. If you want to test the trained InSAR Coherence Classification CNN on a simulated images dataset, please follow the relevant guidelines from our [cnninsar repo](https://github.com/subhayanmukherjee/cnninsar).
