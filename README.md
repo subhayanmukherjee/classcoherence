@@ -8,5 +8,5 @@ Please cite the below [paper](https://doi.org/10.1109/ICSENS.2018.8589742) if yo
 
 ## Guidelines
 
-1. The entire code for generating the training datasets and training the models is provided in [train_coh_class.py](https://github.com/subhayanmukherjee/classcoherence/blob/master/train_coh_class.py). However, this code uses the trained InSAR Denoising CNN from our [cnninsar repo](https://github.com/subhayanmukherjee/cnninsar). Please refer to the relevant guidelines in that repo to train the InSAR Denoising CNN first before running any code from this repo.
-2. If you want to test the trained InSAR coherence classification CNN model on a simulated images dataset, please follow the relevant guidelines from our [cnninsar repo](https://github.com/subhayanmukherjee/cnninsar).
+1. The entire code for generating the training datasets and training our InSAR Coherence Classification CNN is provided in the [train_coh_class.py](https://github.com/subhayanmukherjee/classcoherence/blob/master/train_coh_class.py) script. However, this script uses the trained InSAR Denoising CNN from our [cnninsar repo](https://github.com/subhayanmukherjee/cnninsar). Please refer to the relevant guidelines in that repo to train that InSAR Denoising CNN before running any code from this repo.
+2. If you want to test the trained InSAR Coherence Classification CNN on a simulated images dataset, please follow the relevant guidelines from our [cnninsar repo](https://github.com/subhayanmukherjee/cnninsar).
